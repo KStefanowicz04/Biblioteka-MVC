@@ -1,12 +1,85 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\CogitatorInferior\\Desktop\\ProjektMVC\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E892B12-2F15-47DF-8190-2A5106DE1A51}|Biblioteka-MVC\\Biblioteka-MVC.csproj|c:\\users\\cogitatorinferior\\desktop\\projektmvc\\biblioteka-mvc\\models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E892B12-2F15-47DF-8190-2A5106DE1A51}|Biblioteka-MVC\\Biblioteka-MVC.csproj|solutionrelative:biblioteka-mvc\\models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E892B12-2F15-47DF-8190-2A5106DE1A51}|Biblioteka-MVC\\Biblioteka-MVC.csproj|C:\\Users\\CogitatorInferior\\Desktop\\ProjektMVC\\biblioteka-mvc\\models\\authormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E892B12-2F15-47DF-8190-2A5106DE1A51}|Biblioteka-MVC\\Biblioteka-MVC.csproj|solutionrelative:biblioteka-mvc\\models\\authormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E892B12-2F15-47DF-8190-2A5106DE1A51}|Biblioteka-MVC\\Biblioteka-MVC.csproj|C:\\Users\\CogitatorInferior\\Desktop\\ProjektMVC\\biblioteka-mvc\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1E892B12-2F15-47DF-8190-2A5106DE1A51}|Biblioteka-MVC\\Biblioteka-MVC.csproj|solutionrelative:biblioteka-mvc\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E892B12-2F15-47DF-8190-2A5106DE1A51}|Biblioteka-MVC\\Biblioteka-MVC.csproj|C:\\Users\\CogitatorInferior\\Desktop\\ProjektMVC\\biblioteka-mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E892B12-2F15-47DF-8190-2A5106DE1A51}|Biblioteka-MVC\\Biblioteka-MVC.csproj|solutionrelative:biblioteka-mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\CogitatorInferior\\Desktop\\ProjektMVC\\Biblioteka-MVC\\packages.config",
+              "RelativeDocumentMoniker": "Biblioteka-MVC\\packages.config",
+              "ToolTip": "C:\\Users\\CogitatorInferior\\Desktop\\ProjektMVC\\Biblioteka-MVC\\packages.config",
+              "RelativeToolTip": "Biblioteka-MVC\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-10-27T15:38:04.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthorModel.cs",
+              "DocumentMoniker": "C:\\Users\\CogitatorInferior\\Desktop\\ProjektMVC\\Biblioteka-MVC\\Models\\AuthorModel.cs",
+              "RelativeDocumentMoniker": "Biblioteka-MVC\\Models\\AuthorModel.cs",
+              "ToolTip": "C:\\Users\\CogitatorInferior\\Desktop\\ProjektMVC\\Biblioteka-MVC\\Models\\AuthorModel.cs",
+              "RelativeToolTip": "Biblioteka-MVC\\Models\\AuthorModel.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T15:33:41.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookModel.cs",
+              "DocumentMoniker": "C:\\Users\\CogitatorInferior\\Desktop\\ProjektMVC\\Biblioteka-MVC\\Models\\BookModel.cs",
+              "RelativeDocumentMoniker": "Biblioteka-MVC\\Models\\BookModel.cs",
+              "ToolTip": "C:\\Users\\CogitatorInferior\\Desktop\\ProjektMVC\\Biblioteka-MVC\\Models\\BookModel.cs",
+              "RelativeToolTip": "Biblioteka-MVC\\Models\\BookModel.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswB0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T15:28:00.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\CogitatorInferior\\Desktop\\ProjektMVC\\Biblioteka-MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Biblioteka-MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\CogitatorInferior\\Desktop\\ProjektMVC\\Biblioteka-MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Biblioteka-MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-27T15:17:09.447Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
