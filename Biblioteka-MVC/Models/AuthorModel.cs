@@ -24,6 +24,6 @@ namespace Biblioteka_MVC.Models
         public string Surname { get; set; }
 
         // Książki autora
-        //public ICollection<Book>? Books { get; set; }
+        public ICollection<Book> Books { get; set; }
     }
 }

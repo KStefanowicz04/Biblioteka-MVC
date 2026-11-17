@@ -3,16 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\CogitatorInferior\\Desktop\\ProjektMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1E892B12-2F15-47DF-8190-2A5106DE1A51}|Biblioteka-MVC\\Biblioteka-MVC.csproj|C:\\Users\\CogitatorInferior\\Desktop\\ProjektMVC\\biblioteka-mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1E892B12-2F15-47DF-8190-2A5106DE1A51}|Biblioteka-MVC\\Biblioteka-MVC.csproj|solutionrelative:biblioteka-mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1E892B12-2F15-47DF-8190-2A5106DE1A51}|Biblioteka-MVC\\Biblioteka-MVC.csproj|c:\\users\\cogitatorinferior\\desktop\\projektmvc\\biblioteka-mvc\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1E892B12-2F15-47DF-8190-2A5106DE1A51}|Biblioteka-MVC\\Biblioteka-MVC.csproj|solutionrelative:biblioteka-mvc\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E892B12-2F15-47DF-8190-2A5106DE1A51}|Biblioteka-MVC\\Biblioteka-MVC.csproj|c:\\users\\cogitatorinferior\\desktop\\projektmvc\\biblioteka-mvc\\models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1E892B12-2F15-47DF-8190-2A5106DE1A51}|Biblioteka-MVC\\Biblioteka-MVC.csproj|c:\\users\\cogitatorinferior\\desktop\\projektmvc\\biblioteka-mvc\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1E892B12-2F15-47DF-8190-2A5106DE1A51}|Biblioteka-MVC\\Biblioteka-MVC.csproj|solutionrelative:biblioteka-mvc\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E892B12-2F15-47DF-8190-2A5106DE1A51}|Biblioteka-MVC\\Biblioteka-MVC.csproj|c:\\users\\cogitatorinferior\\desktop\\projektmvc\\biblioteka-mvc\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E892B12-2F15-47DF-8190-2A5106DE1A51}|Biblioteka-MVC\\Biblioteka-MVC.csproj|solutionrelative:biblioteka-mvc\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E892B12-2F15-47DF-8190-2A5106DE1A51}|Biblioteka-MVC\\Biblioteka-MVC.csproj|C:\\Users\\CogitatorInferior\\Desktop\\ProjektMVC\\biblioteka-mvc\\models\\librarydatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E892B12-2F15-47DF-8190-2A5106DE1A51}|Biblioteka-MVC\\Biblioteka-MVC.csproj|solutionrelative:biblioteka-mvc\\models\\librarydatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E892B12-2F15-47DF-8190-2A5106DE1A51}|Biblioteka-MVC\\Biblioteka-MVC.csproj|C:\\Users\\CogitatorInferior\\Desktop\\ProjektMVC\\biblioteka-mvc\\migrations\\202611171547254_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E892B12-2F15-47DF-8190-2A5106DE1A51}|Biblioteka-MVC\\Biblioteka-MVC.csproj|solutionrelative:biblioteka-mvc\\migrations\\202611171547254_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E892B12-2F15-47DF-8190-2A5106DE1A51}|Biblioteka-MVC\\Biblioteka-MVC.csproj|C:\\Users\\CogitatorInferior\\Desktop\\ProjektMVC\\biblioteka-mvc\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E892B12-2F15-47DF-8190-2A5106DE1A51}|Biblioteka-MVC\\Biblioteka-MVC.csproj|solutionrelative:biblioteka-mvc\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E892B12-2F15-47DF-8190-2A5106DE1A51}|Biblioteka-MVC\\Biblioteka-MVC.csproj|C:\\Users\\CogitatorInferior\\Desktop\\ProjektMVC\\biblioteka-mvc\\models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E892B12-2F15-47DF-8190-2A5106DE1A51}|Biblioteka-MVC\\Biblioteka-MVC.csproj|solutionrelative:biblioteka-mvc\\models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E892B12-2F15-47DF-8190-2A5106DE1A51}|Biblioteka-MVC\\Biblioteka-MVC.csproj|C:\\Users\\CogitatorInferior\\Desktop\\ProjektMVC\\biblioteka-mvc\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E892B12-2F15-47DF-8190-2A5106DE1A51}|Biblioteka-MVC\\Biblioteka-MVC.csproj|solutionrelative:biblioteka-mvc\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1E892B12-2F15-47DF-8190-2A5106DE1A51}|Biblioteka-MVC\\Biblioteka-MVC.csproj|C:\\Users\\CogitatorInferior\\Desktop\\ProjektMVC\\biblioteka-mvc\\models\\authormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E892B12-2F15-47DF-8190-2A5106DE1A51}|Biblioteka-MVC\\Biblioteka-MVC.csproj|solutionrelative:biblioteka-mvc\\models\\authormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E892B12-2F15-47DF-8190-2A5106DE1A51}|Biblioteka-MVC\\Biblioteka-MVC.csproj|C:\\Users\\CogitatorInferior\\Desktop\\ProjektMVC\\biblioteka-mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E892B12-2F15-47DF-8190-2A5106DE1A51}|Biblioteka-MVC\\Biblioteka-MVC.csproj|solutionrelative:biblioteka-mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E892B12-2F15-47DF-8190-2A5106DE1A51}|Biblioteka-MVC\\Biblioteka-MVC.csproj|C:\\Users\\CogitatorInferior\\Desktop\\ProjektMVC\\biblioteka-mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E892B12-2F15-47DF-8190-2A5106DE1A51}|Biblioteka-MVC\\Biblioteka-MVC.csproj|solutionrelative:biblioteka-mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1E892B12-2F15-47DF-8190-2A5106DE1A51}|Biblioteka-MVC\\Biblioteka-MVC.csproj|C:\\Users\\CogitatorInferior\\Desktop\\ProjektMVC\\biblioteka-mvc\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -26,11 +58,141 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\CogitatorInferior\\Desktop\\ProjektMVC\\Biblioteka-MVC\\Views\\Web.config",
+              "RelativeDocumentMoniker": "Biblioteka-MVC\\Views\\Web.config",
+              "ToolTip": "C:\\Users\\CogitatorInferior\\Desktop\\ProjektMVC\\Biblioteka-MVC\\Views\\Web.config",
+              "RelativeToolTip": "Biblioteka-MVC\\Views\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-11-17T16:32:27.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\CogitatorInferior\\Desktop\\ProjektMVC\\Biblioteka-MVC\\Global.asax.cs",
+              "RelativeDocumentMoniker": "Biblioteka-MVC\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\CogitatorInferior\\Desktop\\ProjektMVC\\Biblioteka-MVC\\Global.asax.cs",
+              "RelativeToolTip": "Biblioteka-MVC\\Global.asax.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwBMAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T16:30:38.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\CogitatorInferior\\Desktop\\ProjektMVC\\Biblioteka-MVC\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "Biblioteka-MVC\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\CogitatorInferior\\Desktop\\ProjektMVC\\Biblioteka-MVC\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "Biblioteka-MVC\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T15:47:02.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "LibraryDatabaseContext.cs",
+              "DocumentMoniker": "C:\\Users\\CogitatorInferior\\Desktop\\ProjektMVC\\Biblioteka-MVC\\Models\\LibraryDatabaseContext.cs",
+              "RelativeDocumentMoniker": "Biblioteka-MVC\\Models\\LibraryDatabaseContext.cs",
+              "ToolTip": "C:\\Users\\CogitatorInferior\\Desktop\\ProjektMVC\\Biblioteka-MVC\\Models\\LibraryDatabaseContext.cs",
+              "RelativeToolTip": "Biblioteka-MVC\\Models\\LibraryDatabaseContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAEwAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T15:36:26.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\CogitatorInferior\\Desktop\\ProjektMVC\\Biblioteka-MVC\\Web.config",
+              "RelativeDocumentMoniker": "Biblioteka-MVC\\Web.config",
+              "ToolTip": "C:\\Users\\CogitatorInferior\\Desktop\\ProjektMVC\\Biblioteka-MVC\\Web.config",
+              "RelativeToolTip": "Biblioteka-MVC\\Web.config",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-11-17T15:20:28.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "202611171547254_Init.cs",
+              "DocumentMoniker": "C:\\Users\\CogitatorInferior\\Desktop\\ProjektMVC\\Biblioteka-MVC\\Migrations\\202611171547254_Init.cs",
+              "RelativeDocumentMoniker": "Biblioteka-MVC\\Migrations\\202611171547254_Init.cs",
+              "ToolTip": "C:\\Users\\CogitatorInferior\\Desktop\\ProjektMVC\\Biblioteka-MVC\\Migrations\\202611171547254_Init.cs",
+              "RelativeToolTip": "Biblioteka-MVC\\Migrations\\202611171547254_Init.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAmwC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T15:47:34.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\CogitatorInferior\\Desktop\\ProjektMVC\\Biblioteka-MVC\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Biblioteka-MVC\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\CogitatorInferior\\Desktop\\ProjektMVC\\Biblioteka-MVC\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Biblioteka-MVC\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAUwBMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-17T15:15:03.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\CogitatorInferior\\Desktop\\ProjektMVC\\Biblioteka-MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Biblioteka-MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\CogitatorInferior\\Desktop\\ProjektMVC\\Biblioteka-MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Biblioteka-MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-15T11:51:00.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthorModel.cs",
+              "DocumentMoniker": "C:\\Users\\CogitatorInferior\\Desktop\\ProjektMVC\\Biblioteka-MVC\\Models\\AuthorModel.cs",
+              "RelativeDocumentMoniker": "Biblioteka-MVC\\Models\\AuthorModel.cs",
+              "ToolTip": "C:\\Users\\CogitatorInferior\\Desktop\\ProjektMVC\\Biblioteka-MVC\\Models\\AuthorModel.cs",
+              "RelativeToolTip": "Biblioteka-MVC\\Models\\AuthorModel.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA1wBoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T15:33:41.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookModel.cs",
+              "DocumentMoniker": "C:\\Users\\CogitatorInferior\\Desktop\\ProjektMVC\\Biblioteka-MVC\\Models\\BookModel.cs",
+              "RelativeDocumentMoniker": "Biblioteka-MVC\\Models\\BookModel.cs",
+              "ToolTip": "C:\\Users\\CogitatorInferior\\Desktop\\ProjektMVC\\Biblioteka-MVC\\Models\\BookModel.cs",
+              "RelativeToolTip": "Biblioteka-MVC\\Models\\BookModel.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T15:28:00.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "packages.config",
               "DocumentMoniker": "C:\\Users\\CogitatorInferior\\Desktop\\ProjektMVC\\Biblioteka-MVC\\packages.config",
               "RelativeDocumentMoniker": "Biblioteka-MVC\\packages.config",
@@ -38,42 +200,18 @@
               "RelativeToolTip": "Biblioteka-MVC\\packages.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2026-10-27T15:38:04.377Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AuthorModel.cs",
-              "DocumentMoniker": "C:\\Users\\CogitatorInferior\\Desktop\\ProjektMVC\\Biblioteka-MVC\\Models\\AuthorModel.cs",
-              "RelativeDocumentMoniker": "Biblioteka-MVC\\Models\\AuthorModel.cs",
-              "ToolTip": "C:\\Users\\CogitatorInferior\\Desktop\\ProjektMVC\\Biblioteka-MVC\\Models\\AuthorModel.cs",
-              "RelativeToolTip": "Biblioteka-MVC\\Models\\AuthorModel.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBoAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-27T15:33:41.132Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BookModel.cs",
-              "DocumentMoniker": "C:\\Users\\CogitatorInferior\\Desktop\\ProjektMVC\\Biblioteka-MVC\\Models\\BookModel.cs",
-              "RelativeDocumentMoniker": "Biblioteka-MVC\\Models\\BookModel.cs",
-              "ToolTip": "C:\\Users\\CogitatorInferior\\Desktop\\ProjektMVC\\Biblioteka-MVC\\Models\\BookModel.cs",
-              "RelativeToolTip": "Biblioteka-MVC\\Models\\BookModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-27T15:28:00.846Z",
+              "WhenOpened": "2026-10-27T15:38:04.377Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 10,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\CogitatorInferior\\Desktop\\ProjektMVC\\Biblioteka-MVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Biblioteka-MVC\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\CogitatorInferior\\Desktop\\ProjektMVC\\Biblioteka-MVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Biblioteka-MVC\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAALcAAAAAAAAAAAAAAMkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-10-27T15:17:09.447Z",
               "EditorCaption": ""

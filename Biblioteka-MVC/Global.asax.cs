@@ -16,6 +16,8 @@ namespace Biblioteka_MVC
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
+
+            AppDomain.CurrentDomain.SetData( "DataDirectory", Server.MapPath("~/"));
         }
     }
 }

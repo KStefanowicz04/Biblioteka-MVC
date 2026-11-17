@@ -77,3 +77,9 @@ C:\Users\CogitatorInferior\Desktop\ProjektMVC\Biblioteka-MVC\obj\Debug\Bibliotek
 C:\Users\CogitatorInferior\Desktop\ProjektMVC\Biblioteka-MVC\obj\Debug\Bibliote.6E0A19EF.Up2Date
 C:\Users\CogitatorInferior\Desktop\ProjektMVC\Biblioteka-MVC\obj\Debug\Biblioteka-MVC.dll
 C:\Users\CogitatorInferior\Desktop\ProjektMVC\Biblioteka-MVC\obj\Debug\Biblioteka-MVC.pdb
+C:\Users\CogitatorInferior\Desktop\ProjektMVC\Biblioteka-MVC\bin\EntityFramework.dll
+C:\Users\CogitatorInferior\Desktop\ProjektMVC\Biblioteka-MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\CogitatorInferior\Desktop\ProjektMVC\Biblioteka-MVC\bin\EntityFramework.xml
+C:\Users\CogitatorInferior\Desktop\ProjektMVC\Biblioteka-MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\CogitatorInferior\Desktop\ProjektMVC\Biblioteka-MVC\obj\Debug\Biblioteka_MVC.Migrations.Init.resources
+C:\Users\CogitatorInferior\Desktop\ProjektMVC\Biblioteka-MVC\obj\Debug\Biblioteka-MVC.csproj.GenerateResource.cache

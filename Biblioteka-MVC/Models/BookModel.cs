@@ -21,7 +21,7 @@ namespace Biblioteka_MVC.Models
         public string Title { get; set; }
 
         // Autor/Autorzy Książki
-        //public virtual ICollection<Author>? Authors { get; set; }
+        public virtual ICollection<Author> Authors { get; set; }
 
         // Data wydanai książki
         [Display(Name = "Data wydania")]
